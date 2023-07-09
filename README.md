@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @jlassery! I'm a Brazilian living in Europe, now I'm in Netherlands
-- 👀 I’m interested in Open Source and whole ecossystem 
-- 🌱 I’m currently learning Cloud, Kubernetes and DevSecOps practices and how I can transform my tech-knowledge in marketing trends 
-- 💞️ I’m looking to collaborate on Open Source projects and solutions
+- 👋 Hi, I’m @jlassery! I'm a Brazilian working and living in Europe, now I'm in Netherlands. 
+- 💞️ I’m and Open source enthusiastic and I love helping people understand about tech and international carreer 
+- 🌱 I'm focused on Cloud native tools, Kubernetes, DevOps, Observability and Monitoring
 - 📫 How to reach me: jadellassery@gmail.com or jade.lassery@datadoghq.com and https://www.linkedin.com/in/jadelassery/
 
 <!---
