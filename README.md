@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @jlassery! I'm a Brazilian working and living in Europe, now I'm in Netherlands. 
+- 👋 Hi, I’m @jlassery! I'm a Brazilian working and living in Europe, now I'm in Netherlands.
+- ✨ I'm not just an "IT woman", sports, animals and my family have a uniq piece in my heart. 
 - 💞️ I’m and Open source enthusiastic and I love helping people understand about tech and international carreer 
 - 🌱 I'm focused on Cloud native tools, Kubernetes, DevOps, Observability and Monitoring
 - 📫 How to reach me: jadellassery@gmail.com or jade.lassery@datadoghq.com and https://www.linkedin.com/in/jadelassery/
